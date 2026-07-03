@@ -8,6 +8,6 @@
 * **4 года опыта на java**
 * **5 лет опыта веб разработки**
 
-[![Whoami's GitHub stats](https://github-readme-stats.vercel.app/api?username=naciszt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Whoami's GitHub stats](https://github-stats-extended.vercel.app/api?username=naciszt)](https://github.com/stats-organization/github-stats-extended)
 
 **мой контакт: [телеграм](https://t.me/usdtcalled)**

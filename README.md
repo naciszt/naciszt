@@ -1,16 +1,13 @@
-## Hi there 👋
+**привет друг, я whoami**
 
-<!--
-**naciszt/naciszt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*я — начинающий дев*, мои языки: python, java, html, javascript, css, php, golang; также я osint разведчик, десятки раскрытых кейсов по пропаже детей в ес/снг/сша, десятки раскрытых кейсов по криминалу, и сотни расскрытых кейсов по пользователям тг
 
-Here are some ideas to get you started:
+**мои скиллы**
+* **1,5 год опыта python**
+* **3,5 лет опыта osint разведки**
+* **4 года опыта на java**
+* **5 лет опыта веб разработки**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Whoami's GitHub stats](https://github-readme-stats.vercel.app/api?username=naciszt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+**мой контакт: [телеграм](https://t.me/usdtcalled)**
